@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ternary {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
-    String grades = "CBA";
+    String grades = "DCBA";
     int grade = Integer.parseInt(in.nextLine());
     String word1 = in.nextLine();
     String word2 = in.nextLine();
